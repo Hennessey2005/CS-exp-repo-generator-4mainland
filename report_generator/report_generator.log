@@ -1,0 +1,59 @@
+2025-11-26 17:13:43,518 - report_generator - INFO - 启动自动模式
+2025-11-26 17:13:43,518 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 17:13:43,518 - report_generator - INFO - 使用配置: {'llm_provider': 'openai', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 17:13:43,518 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 17:13:43,665 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 17:13:43,670 - report_generator - INFO - 开始生成报告内容
+2025-11-26 17:13:57,334 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/3.docx
+2025-11-26 17:13:57,393 - report_generator - INFO - 报告生成完成
+2025-11-26 17:13:57,393 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2713' in position 0: illegal multibyte sequence
+2025-11-26 17:19:06,551 - report_generator - INFO - 启动自动模式
+2025-11-26 17:19:06,552 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 17:19:06,552 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 17:19:06,552 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-11-26 17:19:06,552 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 17:19:06,700 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 17:19:06,701 - report_generator - INFO - 开始生成报告内容
+2025-11-26 17:26:12,576 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/3.docx
+2025-11-26 17:26:12,640 - report_generator - INFO - 报告生成完成
+2025-11-26 17:26:12,640 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2713' in position 1: illegal multibyte sequence
+2025-11-26 17:38:51,991 - report_generator - INFO - 启动自动模式
+2025-11-26 17:38:51,992 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 17:38:51,992 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 17:38:51,992 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-11-26 17:38:51,992 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 17:38:52,140 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 17:38:52,141 - report_generator - INFO - 开始生成报告内容
+2025-11-26 17:44:45,177 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/5.docx
+2025-11-26 17:44:45,239 - report_generator - INFO - 报告生成完成
+2025-11-26 17:44:45,239 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2713' in position 1: illegal multibyte sequence
+2025-11-26 17:55:36,955 - report_generator - INFO - 启动自动模式
+2025-11-26 17:55:36,955 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 17:55:36,955 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 17:55:36,955 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-11-26 17:55:36,955 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 17:55:37,105 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 17:55:37,106 - report_generator - INFO - 开始生成报告内容
+2025-11-26 18:01:04,051 - report_generator - INFO - 启动自动模式
+2025-11-26 18:01:04,052 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 18:01:04,052 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 18:01:04,052 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-11-26 18:01:04,052 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 18:01:04,199 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 18:01:04,200 - report_generator - INFO - 开始生成报告内容
+2025-11-26 18:01:35,985 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/6.docx
+2025-11-26 18:01:36,051 - report_generator - INFO - 报告生成完成
+2025-11-26 18:01:36,052 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2713' in position 1: illegal multibyte sequence
+2025-11-26 18:03:41,898 - report_generator - INFO - 启动自动模式
+2025-11-26 18:03:41,899 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 18:03:41,899 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 18:03:41,899 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-11-26 18:03:41,899 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 18:03:42,052 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 18:03:42,053 - report_generator - INFO - 开始生成报告内容
+2025-11-26 18:06:28,290 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/6.docx
+2025-11-26 18:06:28,338 - report_generator - ERROR - 报告导出失败
+2025-11-26 18:06:28,339 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2717' in position 1: illegal multibyte sequence
+2025-11-26 18:09:34,829 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/7.docx
+2025-11-26 18:09:34,895 - report_generator - INFO - 报告生成完成
+2025-11-26 18:09:34,895 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2713' in position 1: illegal multibyte sequence

@@ -1,0 +1,11 @@
+python-docx>=0.8.11
+PyPDF2>=2.11.1
+python-dotenv>=1.0.0
+openai>=0.27.8
+anthropic>=0.3.0
+requests>=2.31.0
+pydantic>=2.0.0
+pillow>=9.5.0
+
+# GUI依赖（通常包含在Python标准库中）
+# tkinter 用于图形界面（Python标准库）

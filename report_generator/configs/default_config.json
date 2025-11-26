@@ -1,0 +1,46 @@
+{
+  "llm_provider": "deepseek",
+  "openai": {
+    "api_key": "",
+    "model": "gpt-4",
+    "temperature": 0.3,
+    "max_tokens": 2000
+  },
+  "anthropic": {
+    "api_key": "",
+    "model": "claude-3-opus-20240229",
+    "temperature": 0.3,
+    "max_tokens": 2000
+  },
+  "deepseek": {
+    "api_key": "",
+    "model": "deepseek-chat",
+    "temperature": 0.3,
+    "max_tokens": 2000
+  },
+  "report_settings": {
+    "title": "实验报告",
+    "author": "自动生成",
+    "date": "自动生成",
+    "section_order": [
+      "实验目的",
+      "实验原理",
+      "实验内容",
+      "代码分析",
+      "结果与分析",
+      "结论与展望"
+    ],
+    "code_theme": "vs"
+  },
+  "parser_settings": {
+    "supported_languages": [
+      "python",
+      "java",
+      "c",
+      "cpp",
+      "javascript",
+      "typescript"
+    ],
+    "max_file_size": 102400
+  }
+}

@@ -1,0 +1,92 @@
+2025-11-26 15:46:42,496 - report_generator - ERROR - 导入模块失败: No module named 'report_generator'
+2025-11-26 15:49:31,216 - report_generator - INFO - 启动自动模式
+2025-11-26 15:49:31,216 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 15:49:31,217 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 15:49:31,217 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 15:49:31,376 - report_generator - INFO - 分析源代码: C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c
+2025-11-26 15:49:31,377 - report_generator - INFO - 开始生成报告内容
+2025-11-26 15:55:33,738 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/1.docx
+2025-11-26 15:55:33,802 - report_generator - INFO - 报告生成完成
+2025-11-26 15:55:33,802 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2713' in position 0: illegal multibyte sequence
+2025-11-26 16:11:02,548 - report_generator - INFO - 启动自动模式
+2025-11-26 16:11:02,549 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 16:11:02,549 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 16:11:02,549 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 16:11:02,696 - report_generator - INFO - 分析源代码: C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c
+2025-11-26 16:11:02,697 - report_generator - INFO - 开始生成报告内容
+2025-11-26 16:17:08,734 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/osexp3.docx
+2025-11-26 16:17:08,753 - report_generator - ERROR - 报告导出失败
+2025-11-26 16:17:08,753 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2717' in position 0: illegal multibyte sequence
+2025-11-26 16:18:07,140 - report_generator - INFO - 启动自动模式
+2025-11-26 16:18:07,140 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 16:18:07,140 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 16:18:07,140 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 16:18:07,289 - report_generator - INFO - 分析源代码: C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c
+2025-11-26 16:18:07,290 - report_generator - INFO - 开始生成报告内容
+2025-11-26 16:19:21,960 - report_generator.modules.word_exporter - WARNING - 无法导入FormulaConverter
+2025-11-26 16:19:21,966 - report_generator - INFO - 启动自动模式
+2025-11-26 16:19:21,966 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 16:19:21,967 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 16:19:21,967 - report_generator - INFO - 加载实验要求文件: testfile/03-edu设备驱动.pdf
+2025-11-26 16:19:22,116 - report_generator - INFO - 分析源代码: testfile/edu_dev.c
+2025-11-26 16:19:22,117 - report_generator - INFO - 开始生成报告内容
+2025-11-26 16:20:14,953 - report_generator.modules.word_exporter - WARNING - 无法导入FormulaConverter
+2025-11-26 16:20:14,959 - report_generator - INFO - 启动自动模式
+2025-11-26 16:20:14,960 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 16:20:14,960 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 16:20:14,960 - report_generator - INFO - 加载实验要求文件: testfile/03-edu设备驱动.pdf
+2025-11-26 16:20:15,110 - report_generator - INFO - 分析源代码: testfile/edu_dev.c
+2025-11-26 16:20:15,111 - report_generator - INFO - 开始生成报告内容
+2025-11-26 16:27:09,597 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/3.docx
+2025-11-26 16:27:09,616 - report_generator - ERROR - 报告导出失败
+2025-11-26 16:27:09,616 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2717' in position 0: illegal multibyte sequence
+2025-11-26 16:27:38,636 - report_generator - INFO - 导出报告到: output/test_report.docx
+2025-11-26 16:27:38,655 - report_generator - ERROR - 报告导出失败
+2025-11-26 16:28:37,348 - report_generator - INFO - 导出报告到: output/test_report.docx
+2025-11-26 16:28:37,367 - report_generator - ERROR - 报告导出失败
+2025-11-26 16:32:59,756 - report_generator.modules.word_exporter - WARNING - 无法导入FormulaConverter
+2025-11-26 16:32:59,764 - report_generator - INFO - 启动自动模式
+2025-11-26 16:32:59,764 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 16:32:59,764 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 16:32:59,764 - report_generator - INFO - 加载实验要求文件: testfile/03-edu设备驱动.pdf
+2025-11-26 16:32:59,913 - report_generator - INFO - 分析源代码: testfile/edu_dev.c
+2025-11-26 16:32:59,914 - report_generator - INFO - 开始生成报告内容
+2025-11-26 16:33:01,065 - report_generator.modules.word_exporter - WARNING - 无法导入FormulaConverter
+2025-11-26 16:33:01,071 - report_generator - INFO - 启动自动模式
+2025-11-26 16:33:01,071 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 16:33:01,071 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 16:33:01,072 - report_generator - INFO - 加载实验要求文件: testfile/03-edu设备驱动.pdf
+2025-11-26 16:33:01,224 - report_generator - INFO - 分析源代码: testfile/edu_dev.c
+2025-11-26 16:33:01,225 - report_generator - INFO - 开始生成报告内容
+2025-11-26 16:39:47,699 - report_generator - INFO - 导出报告到: output/test_report.docx
+2025-11-26 16:39:47,768 - report_generator - INFO - 报告生成完成
+2025-11-26 17:02:13,417 - report_generator - INFO - 启动自动模式
+2025-11-26 17:02:13,417 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 17:02:13,417 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 17:02:13,418 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 17:02:13,568 - report_generator - INFO - 分析源代码: C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c
+2025-11-26 17:02:13,569 - report_generator - INFO - 开始生成报告内容
+2025-11-26 17:28:18,418 - report_generator - INFO - 启动自动模式
+2025-11-26 17:28:18,419 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 17:28:18,419 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 17:28:18,419 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-11-26 17:28:18,419 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 17:28:18,565 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 17:28:18,566 - report_generator - INFO - 开始生成报告内容
+2025-11-26 17:33:46,393 - report_generator - INFO - 导出报告到: C:/Users/zhw/Desktop/os实验/3-stu-ne/4.docx
+2025-11-26 17:33:46,453 - report_generator - INFO - 报告生成完成
+2025-11-26 17:33:46,453 - report_generator - ERROR - 自动模式执行失败: 'gbk' codec can't encode character '\u2713' in position 1: illegal multibyte sequence
+2025-11-26 20:41:34,841 - report_generator - INFO - 启动自动模式
+2025-11-26 20:41:34,841 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 20:41:34,841 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 20:41:34,842 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-11-26 20:41:34,842 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 20:41:34,989 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 20:41:34,990 - report_generator - INFO - 开始生成报告内容
+2025-11-26 20:45:08,397 - report_generator - INFO - 启动自动模式
+2025-11-26 20:45:08,398 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-11-26 20:45:08,398 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-11-26 20:45:08,398 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-11-26 20:45:08,398 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
+2025-11-26 20:45:08,544 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
+2025-11-26 20:45:08,545 - report_generator - INFO - 开始生成报告内容
