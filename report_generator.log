@@ -90,3 +90,13 @@
 2025-11-26 20:45:08,398 - report_generator - INFO - 加载实验要求文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/03-edu设备驱动.pdf']
 2025-11-26 20:45:08,544 - report_generator - INFO - 分析源代码文件列表: ['C:/Users/zhw/Desktop/os实验/3-stu-ne/code/edu_dev.c', 'C:/Users/zhw/Desktop/os实验/3-stu-ne/code/user_space.c']
 2025-11-26 20:45:08,545 - report_generator - INFO - 开始生成报告内容
+2025-12-07 20:35:39,920 - report_generator - INFO - 创建输出目录: output
+2025-12-07 20:35:39,921 - report_generator - INFO - 启动自动模式
+2025-12-07 20:35:39,921 - report_generator - INFO - 成功加载配置文件: configs\config.json
+2025-12-07 20:35:39,921 - report_generator - INFO - 使用配置: {'llm_provider': 'deepseek', 'openai_model': 'gpt-3.5-turbo', 'anthropic_model': 'claude-3-opus-20240229', 'deepseek_model': 'deepseek-chat', 'temperature': 0.3, 'max_tokens': 2000}
+2025-12-07 20:35:39,921 - report_generator - INFO - 使用deepseek提供商，模型: deepseek-chat
+2025-12-07 20:35:39,921 - report_generator - INFO - 加载实验要求文件列表: ['E:/Desktop/25-26第一学期学习资料/人工智能/实验/实验要求.docx']
+2025-12-07 20:35:39,925 - report_generator - INFO - 分析源代码文件列表: ['E:/Desktop/25-26第一学期学习资料/人工智能/实验/AI code/第五章 LeNet5 手写数字识别/test_pro.py', 'E:/Desktop/25-26第一学期学习资料/人工智能/实验/AI code/第五章 LeNet5 手写数字识别/train_gpu.py', 'E:/Desktop/25-26第一学期学习资料/人工智能/实验/AI code/第五章 LeNet5 手写数字识别/train_lr.py']
+2025-12-07 20:35:39,928 - report_generator - INFO - 开始生成报告内容
+2025-12-07 20:35:39,928 - report_generator - INFO - 导出报告到: E:/Desktop/25-26第一学期学习资料/人工智能/实验/Lenet5实验报告.docx
+2025-12-07 20:35:39,977 - report_generator - INFO - 报告生成完成
